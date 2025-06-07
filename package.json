@@ -1,12 +1,12 @@
 {
-  "name": "astron-logger",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "directories": {
-    "doc": "docs",
-    "test": "tests"
-  },
+  "displayName": "Astron",
+  "license": "AGPL-3.0 license",
+  "description": "Astron is the primary bot of the Astron Collection — a modular suite of advanced Discord applications.",
+  "author": "Sky Genesis Enterprise",
+  "email": "contact@skygenesisenterprise.com",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -16,8 +16,6 @@
     "url": "git+https://github.com/Sky-Genesis-Enterprise/astron-logger.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Sky-Genesis-Enterprise/astron-logger/issues"
   },
